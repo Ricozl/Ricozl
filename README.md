@@ -5,7 +5,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Full Stack Web App (JavaScript, Python, React, Mapbox GL)</b>
-  - [Rome Travel Website](https://github.com/Ricozl/travelplanner)
+  - [Rome Travel Website](https://github.com/Ricozl/travelPlanner)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
