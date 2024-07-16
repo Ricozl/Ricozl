@@ -8,12 +8,9 @@
   - [Rome Travel Website](https://github.com/Ricozl/travelPlanner)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  <h2> Certificates</h2>
+- [Harvard University Web Programming with Python and JavaScript Certificate](https://cs50.harvard.edu/certificates/c7deeaf4-09a1-4c84-ad8b-0f11193c9444)
 
-
-
-
-<h2> Certifications</h2>
-  - [Harvard University Web Development Certification]
   
 <h2>📺 Project Demonstration YouTube Videos</h2>
 
@@ -22,6 +19,8 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Harvard University Web Development Certification](https://cs50.harvard.edu/certificates/c7deeaf4-09a1-4c84-ad8b-0f11193c9444)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
