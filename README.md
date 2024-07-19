@@ -8,6 +8,9 @@
   - [Rome Travel Website](https://github.com/Ricozl/travelPlanner)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  <h2>  Python Projects:</h2>
+  - <b>Python project</b>
+  - [DNA Analysis](https://github.com/Ricozl/DNA)
   <h2> Certificates</h2>
 - [Harvard University Web Programming with Python and JavaScript Certificate](https://cs50.harvard.edu/certificates/c7deeaf4-09a1-4c84-ad8b-0f11193c9444)
 
