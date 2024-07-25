@@ -6,6 +6,8 @@
 
 - <b>Full Stack Web App (JavaScript, Python, React, Mapbox GL)</b>
   - [Rome Travel Website](https://github.com/Ricozl/travelPlanner)
+- <b>Full Stack Web App (Python, JavaScript, HTML, CSS, Django, Bootstrap, SQLite)</b>
+  - [Social Network](https://github.com/Ricozl/Social Network)</b></i>
 - <b>Full Stack Web App (Python, JavaScript, HTML, CSS)</b>
   - [Commerce](https://github.com/Ricozl/commerce)</b></i>
   <h2>  Python Projects:</h2>
