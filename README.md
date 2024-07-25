@@ -8,6 +8,8 @@
   - [Rome Travel Website](https://github.com/Ricozl/travelPlanner)
 - <b>Full Stack Web App (Python, JavaScript, HTML, CSS, Django, Bootstrap, SQLite)</b>
   - [Social Network](https://github.com/Ricozl/Network)</b>
+- <b>Front-end for an email client using API calls(single-page-app) (JavaScript, HTML, CSS)</b>
+  - [Mail](https://github.com/Ricozl/mail)</b>
 - <b>Full Stack Web App (Python, JavaScript, HTML, CSS)</b>
   - [Commerce](https://github.com/Ricozl/commerce)</b></i>
   <h2>  Python Projects:</h2>
@@ -20,10 +22,9 @@
 <h2>📺 Project Demonstration YouTube Videos</h2>
 
 - [Rome Travel: CS50 Web Programming Final Project](https://youtu.be/YafqERNQEQY)
-- [Commerce: CS50 Web Programming](https://youtu.be/tfuCtES5UIs)
 - [Network: CS50 Web Programming](https://youtu.be/_BPk9FSaYSo)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Mail: CS50 Web Programming](https://youtu.be/HSOqz8UOJrs)
+- [Commerce: CS50 Web Programming](https://youtu.be/tfuCtES5UIs))
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
   
 
