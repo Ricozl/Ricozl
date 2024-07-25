@@ -25,7 +25,6 @@
 - [Network: CS50 Web Programming](https://youtu.be/_BPk9FSaYSo)
 - [Mail: CS50 Web Programming](https://youtu.be/HSOqz8UOJrs)
 - [Commerce: CS50 Web Programming](https://youtu.be/tfuCtES5UIs)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
   
 
 <h2> 🤳 Connect with me:</h2>
