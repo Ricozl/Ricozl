@@ -10,7 +10,7 @@
   - [Social Network](https://github.com/Ricozl/Network)</b>
 - <b>Front-end for an email client using API calls(single-page-app) (JavaScript, HTML, CSS)</b>
   - [Mail](https://github.com/Ricozl/mail)</b>
-- <b>Full Stack Web App (Python, JavaScript, HTML, CSS)</b>
+- <b>Full Stack Web App (Python, JavaScript, HTML, CSS, Django)</b>
   - [Commerce](https://github.com/Ricozl/commerce)</b></i>
   <h2>  Python Projects:</h2>
 - <b>Python project</b>
@@ -24,7 +24,7 @@
 - [Rome Travel: CS50 Web Programming Final Project](https://youtu.be/YafqERNQEQY)
 - [Network: CS50 Web Programming](https://youtu.be/_BPk9FSaYSo)
 - [Mail: CS50 Web Programming](https://youtu.be/HSOqz8UOJrs)
-- [Commerce: CS50 Web Programming](https://youtu.be/tfuCtES5UIs))
+- [Commerce: CS50 Web Programming](https://youtu.be/tfuCtES5UIs)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
   
 
